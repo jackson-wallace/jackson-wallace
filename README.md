@@ -5,7 +5,8 @@
 
 I recently earned my undergraduate degree in Computer Science and Economics!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackson-wa11ace/)](https://www.linkedin.com/in/jackson-wa11ace/)  [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwallace1410@gmail.com)](mailto:jwallace1410@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackson-wa11ace/)](https://www.linkedin.com/in/jackson-wa11ace/)  [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwallace1410@gmail.com.com)](mailto:jwallace1410@gmail.com)
+
 
 ## 🧐 About
 - 🔎 I’m currently looking a full-time software engineering opportunity
