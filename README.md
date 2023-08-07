@@ -3,7 +3,7 @@
 
 <h1 align="Center">  Hi There, I'm Jackson <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
-I recently earned my undergraduate degree in Computer Science and Economics!
+### I'm a new grad with a double major in Computer Science and Economics
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jackson-wa11ace/)](https://www.linkedin.com/in/jackson-wa11ace/)  [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jwallace1410@gmail.com.com)](mailto:jwallace1410@gmail.com)
 
