@@ -9,7 +9,6 @@
 
 
 ## 🧐 About
-- 🔎 I’m currently looking a full-time software engineering opportunity
-- 🌱 I’ve been working on [Twelve](https://github.com/jackson-wallace/twelve-app) and practicing LeetCode
+- 🔎 I’m currently looking for a full-time software engineering opportunity
 - 💻 You can learn more about me from my [portfolio website](https://jacksonwallace.io/)
 - 🎸 Check out [my band](https://open.spotify.com/artist/3TpbDX6fUBDS5ZbLuJdrBm?si=VcA4wDc8TmKmvQYGqwYxeg) or [my playlists](https://open.spotify.com/user/jwallace1410?si=07dff0cc766149d1) if you need new music!
