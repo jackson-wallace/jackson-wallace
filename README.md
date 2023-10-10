@@ -17,6 +17,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackson-wallace&repo=prompt-share-app)](https://github.com/jackson-wallace/prompt-share-app)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackson-wallace&repo=amazon-data-api)](https://github.com/jackson-wallace/amazon-data-api)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackson-wallace&repo=reddit-post-generator)](https://github.com/jackson-wallace/reddit-post-generator)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jackson-wallace&repo=sms-gpt)](https://github.com/jackson-wallace/sms-gpt)
