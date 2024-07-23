@@ -14,6 +14,7 @@
 </div>
 
 ## 👨‍💻 What I've been working on recently
+- 🍺 (Coming Soon) powerhourgenerator.com - A tool for easily making and watching custom power hours
 - 🌲 [resumetree.io](https://www.resumetree.io/) - A resume version management and optimization tool for software engineers
 - 🍕 [one-bite-everybody-knows-the-rules.com](https://one-bite-everybody-knows-the-rules.com/) - An interactive map of Dave Portnoy's pizza reviews
 
